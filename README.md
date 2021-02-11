@@ -2,8 +2,8 @@
 
 ### Database Architecture
 ---
-Below is my ERD structure for the databases created to analyze credit card transaction data.
-![ERD](ERD-Image.PNG)
+Below is my ERD structure for the databases created to analyze credit card transaction data.<br>
+![ERD](https://github.com/jjalomo93/Fraud_Detection/blob/main/ERD-Image.png)
 
 ### Data Analysis
 #### Part 1:
